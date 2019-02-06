@@ -1,0 +1,5 @@
+From: Sender <sender@example.com>
+To: Recipient <recipient@example.com>
+Subject: Example
+
+This is the message body.
